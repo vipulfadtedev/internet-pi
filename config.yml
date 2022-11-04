@@ -21,7 +21,7 @@ monitoring_grafana_admin_password: "admin"
 monitoring_speedtest_interval: 60m
 monitoring_ping_interval: 5s
 monitoring_ping_hosts:  # [URL];[HUMAN_READABLE_NAME]
-  - http://www.google.in/;Google
+  - http://www.google.co.in/;Google
   - https://github.com/;Github
   - https://www.apple.com/;Apple
   - https://vcdevs.net/;VCD
